@@ -5,6 +5,7 @@
 - cron `0 21 * * *`（UTC）＝ **日本時間 毎朝6時**、完了時にスマホへプッシュ通知あり
 - エージェント（Claude Code）が作成したルーティンのため、**以後の修正・停止はこの会話から直接行える**
 - 旧Routine `trig_01QxZeKUiHodZNQAsE4GrRku`（7時起動）は**Web画面で無効化が必要**。有効なままだと毎朝7時に旧形式で上書きされる
+- **テスト実行済み（2026-08-28 06:48 JST 公開）**：日付「2026年8月28日（金）」＝JST正常／`section.top3` 削除済み／7カテゴリ・35件／`.freq` に母数（32〜81件中5件）／Artifactツール動作OK
 
 ## 旧（参考）
 - Routine ID: `trig_01QxZeKUiHodZNQAsE4GrRku`
